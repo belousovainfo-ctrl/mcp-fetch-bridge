@@ -1,0 +1,5 @@
+{
+  "name": "mcp-fetch-bridge",
+  "private": true,
+  "type": "module"
+}
